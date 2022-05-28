@@ -22,11 +22,13 @@ Selenium | Python
 # Check Valid Mobile and valid VerificationCode
 ![1](https://user-images.githubusercontent.com/98771741/170826389-b206abc9-4e72-4a01-8ece-66c438617571.png)
 
+# Docker File
+Trx output for use in CICD for Jenkins or Gitlab action
+![1](https://user-images.githubusercontent.com/98771741/170826583-78f8f823-67f8-42e2-ac6c-fb31f4852536.png)
+
 # Necessary requirements to execute the code
 1. Visual Studio Code
 2. Install Python Extension
 3. Install Docker Extension
 
-# Docker File
-Trx output for use in CICD for Jenkins or Gitlab action
-![1](https://user-images.githubusercontent.com/98771741/170826583-78f8f823-67f8-42e2-ac6c-fb31f4852536.png)
+
